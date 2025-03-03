@@ -42,4 +42,5 @@ Usage Guide
 
 
 Acknowledgments
+
 Developed as a Java Swing project for educational purposes. Inspired by basic image editing software.
