@@ -44,23 +44,28 @@ Images of some features:
 
 <img width="511" alt="Screenshot 2025-06-28 at 7 09 17 PM" src="https://github.com/user-attachments/assets/cabc7247-2f61-432f-975b-3c8e29d660cf" />
 
+
 <img width="511" alt="Screenshot 2025-06-28 at 7 09 36 PM" src="https://github.com/user-attachments/assets/2ae3e525-397b-41b8-8d05-adac1708723f" />
 
 Image with horizontal mirror (You can also do a vertical mirror)
 
 <img width="511" alt="Screenshot 2025-06-28 at 7 09 59 PM" src="https://github.com/user-attachments/assets/e0d547b1-06d5-4d0b-9639-f298ba46b42f" />
 
+
 Undo and redo commands
 
 <img width="508" alt="Screenshot 2025-06-28 at 7 10 38 PM" src="https://github.com/user-attachments/assets/3e033945-adcb-44c4-9d58-76a3f57108eb" />
+
 
 Rotated Clockwise (you can also do counter-clockwise)
 
 <img width="510" alt="Screenshot 2025-06-28 at 7 11 30 PM" src="https://github.com/user-attachments/assets/171c3fe3-df67-4a0c-8e44-db40b6132a9d" />
 
+
 Greyscale, inverted, and repeated horizontally twice (you can scroll through it)
 
 <img width="509" alt="Screenshot 2025-06-28 at 7 13 21 PM" src="https://github.com/user-attachments/assets/6f6767a8-422e-4bb1-8486-a07bdd8845fc" />
+
 
 Red Zero 
 
