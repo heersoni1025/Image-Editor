@@ -5,7 +5,7 @@ import java.awt.*;
 
 class ImageEditorRunner {
 
-    private static final String TITLE = "A6";
+    private static final String TITLE = "Image Editor";
     private static final int DEFAULT_WIDTH = 512;
     private static final int DEFAULT_HEIGHT = 512;
 
